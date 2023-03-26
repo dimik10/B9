@@ -1,0 +1,19 @@
+{
+  "name": "test_array",
+  "version": "1.0.0",
+  "description": "test array SF",
+  "main": "array_dimik10.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/dimik10/B9.git"
+  },
+  "author": "dimik10",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dimik10/B9/issues"
+  },
+  "homepage": "https://github.com/dimik10/B9#readme"
+}
