@@ -4,8 +4,7 @@
   "description": "skill_factory test package",
   "main": "sf_test.js",
   "dependencies": {
-    "bootstrap": "^5.2.3",
-    "turtler": "^1.1.1"
+    "jquery": "^3.6.4"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
